@@ -5,7 +5,7 @@
 
 #ask user for name 
 
-name = str(input('Please enter your name:'))
+name = str(input('Please enter your name with any incorrect casing :'))
 
 #use title function to fix capitalizations on the name
 
